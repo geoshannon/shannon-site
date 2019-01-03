@@ -1,0 +1,32 @@
+
+/***** BASE STYLES *****/
+
+
+
+/***** Main Page CSS *****/
+html{
+  background: url(../img/sunset.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.main h1 {
+    color: #1E4363;
+    font-family:'Oleo Script', cursive;
+    font-size: 40px;
+    padding: 5px 0px 0px 60px;
+}
+.main h1 span {
+    font-size: 100px;
+}
+.main nav ul li{
+    display: inline-block;
+    padding: 0px;
+}
+.main  nav ul li a {
+    text-transform: uppercase;
+    text-decoration:none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color: #BC2D19;
+    padding-left: 80px;
+
+}
